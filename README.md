@@ -14,9 +14,6 @@ Coffelane-online-store — is an online coffee shop optimized for the desktop ve
 Home page:  
 ![Home page](./screenshots/home_desktop.png)
 
-Product Page:  
-![Product Page](./screenshots/product_desktop.png)
-
 Catalog Page:  
 ![Catalog Page](./screenshots/catalog_desktop.png)
 
